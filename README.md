@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Passionate+Web+Developer;A+Creative+Thinker+With+Good+Verbal+And+Written+Communication+Skills)](https://git.io/typing-svg)
 
 <!-- Intro -->
-I'm Theoda Hettiarachchi, a passionate third-year Information Technology undergraduate at the University of Moratuwa with a strong foundation in software development and programming. I’m always eager to take on new challenges and learn new technologies. Below are some of the projects I’ve worked on.
+I'm Theoda Hettiarachchi, a 4th-year Information Technology undergraduate at the University of Moratuwa with a strong foundation in software development and programming. I’m always eager to take on new challenges and learn new technologies. Below are some of the projects I’ve worked on.
 
 ## 🚀 Skills & Tools
 - Languages:  
